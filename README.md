@@ -1,4 +1,4 @@
-# 🚀 Data Engineering Pipeline Project
+# 🚀 Weather Data Pipeline Project
 
 An end-to-end Data Engineering Pipeline that extracts live weather data from the Weatherstack API, stores raw data in PostgreSQL, orchestrates workflows using Apache Airflow, transforms data with dbt, and prepares analytics-ready tables for Power BI dashboards.
 
